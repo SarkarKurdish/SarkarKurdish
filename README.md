@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SarkarKurdish
+
+I kinda like **coding** so that what i'm doing now...
