@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @SarkarKurdish
+- 👋 Hi, I’m Sarkar
 
 I kinda like **coding** so that what i'm doing now...
