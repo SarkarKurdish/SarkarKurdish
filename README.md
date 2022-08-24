@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarkarkurdish&label=Profile%20views&color=0e75b6&style=flat" alt="sarkarkurdish" /> </p>
 
+
+[![wakatime](https://wakatime.com/badge/user/a6de9de9-7f6d-4e37-9100-d1ee6ac289af.svg)](https://wakatime.com/@a6de9de9-7f6d-4e37-9100-d1ee6ac289af)
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarkarkurdish" alt="sarkarkurdish" /></a> </p>
 
 - 🔭 I’m currently working on [kurdsubtitle](https://kurdsubtitle.net)
