@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarkarkurdish" alt="sarkarkurdish" /></a> </p>
 
-- 🔭 I’m currently working on [kurdsubtitle](https://kurdsubtitle.net)
+- 🔭 I’m currently working on [kurdsubtitle](https://kurdsubtitle.net), [filedoge](https://filedoge.com), [maildax](https://maildax.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
